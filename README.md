@@ -22,6 +22,4 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/danielmvr/)
 
-(https://www.linkedin.com/in/daniel-reis-833451304/)
-
 - Thanks for visiting.
