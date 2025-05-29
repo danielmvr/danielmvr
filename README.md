@@ -16,9 +16,7 @@ O objetivo deste portfólio é demonstrar minhas habilidades técnicas, capacida
 
 ## 🛠️ Skills
 
-**Python**, **Pandas**, **Numpy**, **Matplotlib**, **Seaborn**,  
-**Análise Estatística**, **Análise Exploratória de Dados (EDA)**,  
-**Modelagem Não Linear (LOWESS)**, **Git**, **GitHub**
+**Python**, **Pandas**, **Numpy**, **Matplotlib**, **Seaborn**, **Análise Estatística**, **Análise Exploratória de Dados (EDA)**, **Modelagem Não Linear (LOWESS)**, **Git**, **GitHub**
 
 ---
 
