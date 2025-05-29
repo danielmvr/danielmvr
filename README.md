@@ -1,25 +1,33 @@
-# Welcome!
+# 🚀 Data Science Portfolio – Daniel Reis
 
- 
+Bem-vindo(a) ao meu portfólio de projetos em **Ciência de Dados!**  
+Aqui compartilho projetos desenvolvidos durante minha jornada de estudos e formação, aplicando conceitos de **análise exploratória, estatística, machine learning e visualização de dados**.
 
-## I'm Daniel!
+O objetivo deste portfólio é demonstrar minhas habilidades técnicas, capacidade analítica e desenvolvimento contínuo na área de Data Science.
 
- 
+---
 
-:computer: I'm Data Analyst!
+## 📂 Projetos
 
-:house_with_garden: I’m from Brazil.
+- [📊 Análise do Nível de Estresse com LOWESS](./projetos/analise-estresse-lowess)  
+  🔎 Modelagem de dados temporais com padrões não lineares, utilizando regressão LOWESS para análise do comportamento de estresse diário.
 
-:books: I’m currently reading "The Drunkard's Walk: How Randomness Rules Our Lives".
+---
 
-👨‍💻 I'm currently learning Python | Statistics | English Language | Storytelling.
+## 🛠️ Skills
 
-:outbox_tray: 2025 Goals: Become a Data Scientist.
+**Python**, **Pandas**, **Numpy**, **Matplotlib**, **Seaborn**,  
+**Análise Estatística**, **Análise Exploratória de Dados (EDA)**,  
+**Modelagem Não Linear (LOWESS)**, **Git**, **GitHub**
 
- 
+---
 
-## About me
+## 👨‍💻 Sobre Mim
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/danielmvr/)
+Sou um entusiasta de Ciência de Dados em constante evolução, apaixonado por transformar dados em insights relevantes.  
+Este portfólio é uma extensão da minha jornada de aprendizado, sempre buscando aprimorar habilidades e resolver problemas reais por meio da análise de dados.
 
-- Thanks for visiting.
+---
+
+🔗 **Me encontre em:**  
+[GitHub](https://github.com/danielmvr) | [LinkedIn](https://www.linkedin.com/in/daniel-reis-833451304/)
