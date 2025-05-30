@@ -9,7 +9,7 @@ O objetivo deste portfólio é demonstrar minhas habilidades técnicas, capacida
 
 ## 📂 Projetos
 
-- [📊 Análise do Nível de Estresse com LOWESS](./projetos/analise-estresse-lowess)  
+- [📊 Análise do Nível de Estresse com LOWESS](./data-science-portifolio/projetos/analise-estresse-lowess)  
   🔎 Modelagem de dados temporais com padrões não lineares, utilizando regressão LOWESS para análise do comportamento de estresse diário.
 
 ---
