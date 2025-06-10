@@ -9,9 +9,10 @@ O objetivo deste portfólio é demonstrar minhas habilidades técnicas, capacida
 
 ## 📂 Projetos
 
-- [📊 Análise do Nível de Estresse com LOWESS](https://github.com/danielmvr/data-science-portfolio/tree/main/projetos/analise-estresse-lowess)
+- [📊 Portifolio](https://github.com/danielmvr/data-science-portfolio/tree/main) - Portifolio de Ciência de Dados
+- [💻 Python para Crianças](https://github.com/danielmvr/pythonparacriancas) - Curso de Introdução ao Python para Crianças
 
-  🔎 Modelagem de dados temporais com padrões não lineares, utilizando regressão LOWESS para análise do comportamento de estresse diário.
+ 
 
 ---
 
